@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add a Sitemap directive after the final public domain is confirmed.
