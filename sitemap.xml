@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace example.invalid with the actual deployed URL before publishing. -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://example.invalid/Home.html</loc></url><url><loc>https://example.invalid/AboutUs.html</loc></url><url><loc>https://example.invalid/Shop.html</loc></url><url><loc>https://example.invalid/Contact.html</loc></url><url><loc>https://example.invalid/Enquiry.html</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://zozibini-lab.github.io/ST10496765-Part1/Home.html</loc></url>
+  <url><loc>https://zozibini-lab.github.io/ST10496765-Part1/AboutUs.html</loc></url>
+  <url><loc>https://zozibini-lab.github.io/ST10496765-Part1/Shop.html</loc></url>
+  <url><loc>https://zozibini-lab.github.io/ST10496765-Part1/Contact.html</loc></url>
+  <url><loc>https://zozibini-lab.github.io/ST10496765-Part1/Enquiry.html</loc></url>
+</urlset>
